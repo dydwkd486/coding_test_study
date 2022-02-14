@@ -45,4 +45,5 @@
 |주 차|난이도|문제 이름|
 |---|---|---|
 |5 주 |레벨1| 1. [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) <br>2. [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) <br>3. [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) <br>4. [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) <br>5. [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)  |
-|6 주 |---|---|
+|6 주 |레벨1| 1. [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) <br>2. [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) <br>3. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) <br>4. [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) <br>5. [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)  |
+|7 주 |---|---|
