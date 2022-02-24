@@ -1,0 +1,86 @@
+def solution(a, b):
+
+    c = 0
+    
+    if(a>b):
+        c=a
+        a=b
+        b=c
+        
+    answer=a
+    while(a<b):
+        a+=1
+        answer+=a
+        
+    return answer
+
+
+
+=================
+def solution(absolutes, signs):
+
+    answer=0
+    for i,v in enumerate(absolutes):
+        if(not(signs[i])):
+            v*=-1
+        answer+=v
+     
+    return answer
+=======================
+def solution(s):
+    print(s)
+    s=s.replace("zero", "0")
+    s=s.replace("one", "1")
+    s=s.replace("two", "2")
+    s=s.replace("three", "3")
+    s=s.replace("four", "4")
+    s=s.replace("five","5")
+    s=s.replace("six","6")
+    s=s.replace("seven","7")
+    s=s.replace("eight","8")
+    s=s.replace("nine","9")
+    s.strip()
+    print(s)
+    #for i in range(0,len(s)):
+    #    print(s[i])
+    answer = int(s)
+    return answer
+
+
+======================
+def getMyDivisor(n):
+
+    divisorsList = []
+
+    for i in range(1, int(n**(1/2)) + 1):
+        if (n % i == 0):
+            divisorsList.append(i) 
+            if ( (i**2) != n) : 
+                divisorsList.append(n // i)
+
+    divisorsList.sort()
+    
+    return divisorsList
+
+def solution(left, right):
+    answer = 0
+    for i in range(left, right+1):
+        if len(getMyDivisor(i))%2!=0:
+            i *= -1
+        answer +=i
+    
+    
+    return answer
+
+====================
+def solution(n):
+    
+    b=bin(n)[2:]
+    one_count=(b.count("1"))
+    
+    i=n+1
+    while(one_count!=bin(i)[2:].count("1")):
+       i+=1
+        
+    answer = i
+    return answer

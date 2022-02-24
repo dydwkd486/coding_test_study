@@ -1,0 +1,137 @@
+필요한 변수
+현재좌손 위치
+현재우손 위치
+좌손과 거리 
+우손과 거리
+
+
+숫자를 불러서
+하나씩 비교
+*0#
+각각 10 11 12로 치환
+
+147좌
+369우
+
+258의 경우
+현재손의위치
+현재손 거리비교
+
+
+왼손 10 오른손 12로 시작
+
+절대값함수 abs
++-3인경우 1과 동일한 거리
++-2,4,567인 경우 비교
+def solution(numbers, hand):
+    right=12
+    left=10
+    R=0
+    L=0
+    answer=''
+    for i in numbers:
+        if i == 0:
+            i=11
+        if i==1 or i==4 or i==7:
+            answer= answer + 'L'
+            left = i
+        elif i==3 or i==6 or i==9:
+            answer= answer + 'R'
+            right = i
+        else:
+            R = abs(right-i)
+            if R == 3:
+                R = 1
+            L = abs(left-i)
+            if L == 3:
+                L = 1
+            if (R - L)>0:
+                answer= answer + 'L'
+                left = i
+            elif (R - L)<0:
+                answer= answer + 'R'
+                right = i
+            else:
+                if hand == "right":
+                    answer= answer + 'R'
+                    right = i
+                elif hand == "left":
+                    answer= answer + 'L'
+                    left = i
+            
+    return answer
+
+==============================
+소수만들기
+(자기 자신보다 낮은 수로 나눠봐서 나머지0이 되는 수가 없으면 소수)
+를 만들고
+
+nums에서 3가지를 고르는 모든 경우의수에서
+소수체크함수로 체크하기
+
+str사용
+
+아니그냥 뽑아주는게 있네;;
+from itertools import combinations
+def is_prime_number(x): #소수체크함수
+    for i in range(2, x):
+        if x % i == 0:
+            return False
+    return True
+def solution(nums):
+    answer=0
+    index = list()
+    for i in list(combinations(nums, 3)):
+                index.append(sum(i))
+    print(index)
+    for i in index:
+        if(is_prime_number(i)):
+            answer+=1
+
+
+    return answer
+
+
+
+==============================
+3진법
+3으로 나눠서 바로 배열에 넣기
+나머지값 남은값으로 반복문
+그후 다시 반복문으로 10진법화
+
+? 그냥 뒤집지말고 바로넣으면될듯???
+
+def solution(n):
+    answer=0
+    a=n
+    tri=list()
+    rmd=0
+    three=1
+    while(a>3):
+        tri.append(a % 3)
+        a = int(a / 3)
+    tri.append(a % 3)
+    for i in range(len(tri)-1):
+        three *= 3
+    for i in tri:
+        answer += (three * i)
+        three /= 3
+        
+    return answer
+
+
+
+
+두개 뽑아서 더하기
+일단 모든 경우의수 구해서 배열에 넣고 중복제거후 정렬<오래걸릴듯
+
+
+부족한금액
+
+
+
+
+
+
+
+
