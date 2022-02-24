@@ -29,7 +29,7 @@ reminder = 15 % 4
 print(multiyply, divide, power, reminder)
 
 text = '2022' + '1996'
-number = 2022pwo + 1996
+number = 2022 + 1996
 print(text)
 print(number)
 
