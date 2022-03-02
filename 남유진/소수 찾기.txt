@@ -1,0 +1,11 @@
+from itertools import permutations 
+
+def solution(numbers):
+    items = list(permutations(list(numbers), 2))
+    # set(items)
+    count = 0
+    for i in range(0, len(items)):
+        items[i] = ''.join(items[i])
+        if items[i] % 2 != 0:
+            count += 1
+    return count    
