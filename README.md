@@ -55,3 +55,5 @@
 |7 주 |레벨1|1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) <br>2. [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|
 |8 주 |레벨2|1. [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|
 |9 주 |영상 공부|[나동빈 bfs,dfs](https://www.youtube.com/watch?v=7C9RgOcvkvo&ab_channel=동빈나)|
+|10 주 |레벨2,3|1. [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) <br>2. [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=python3)|
+
