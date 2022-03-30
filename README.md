@@ -20,13 +20,17 @@
 - 8주차 : 완전 탐색 관련 문제 같이 풀어보고 이야기하기
 - 9주차 : BFS, DFS 문제 공부하고 관련 문제 풀어보기
 - 10주차 : BFS, DFS 관련 문제 풀어보고 이야기하기
-- 11주차 : DP 문제 공부하고 관련 문제 풀어보기
-- 12주차 : DP 관련 문제 풀어보고 이야기하기
-- 13주차 : 문자열 문제 공부하고 관련 문제 풀어보기
-- 14주차 : 문자열 관련 문제 풀어보기
-- 15주차 : 이분 탐색 문제 공부하고 관련 문제 풀어보기
-- 16주차 : 이분 탐색 관련 문제 풀어보고 이야기하기
-- 17주차~24주차 : 다양한 문제 찾아서 공부하고 이전에 공부한 문제들도 추가적으로 공부하며 문제 풀기
+- 11주차 : BFS, DFS 관련 문제 풀어보고 이야기하기
+- 12주차 : DP 문제 공부하고 관련 문제 풀어보기
+- 13주차 : DP 관련 문제 풀어보고 이야기하기
+- 14주차 : DP 관련 문제 풀어보고 이야기하기
+- 15주차 : 문자열 문제 공부하고 관련 문제 풀어보기
+- 16주차 : 문자열 관련 문제 풀어보기
+- 17주차 : 문자열 관련 문제 풀어보기
+- 18주차 : 이분 탐색 문제 공부하고 관련 문제 풀어보기
+- 19주차 : 이분 탐색 관련 문제 풀어보고 이야기하기
+- 20주차 : 이분 탐색 관련 문제 풀어보고 이야기하기
+- 21주차~24주차 : 다양한 문제 찾아서 공부하고 이전에 공부한 문제들도 추가적으로 공부하며 문제 풀기
 
 문제는 매주 금~토요일 사이에 표로 정리해서 올릴 예정 
 
@@ -49,4 +53,7 @@
 |5 주 |레벨1| 1. [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) <br>2. [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) <br>3. [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) <br>4. [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) <br>5. [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)  |
 |6 주 |레벨1| 1. [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) <br>2. [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) <br>3. [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) <br>4. [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) <br>5. [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)  |
 |7 주 |레벨1|1. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) <br>2. [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|
-|8 주 |---|---|
+|8 주 |레벨2|1. [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|
+|9 주 |영상 공부|[나동빈 bfs,dfs](https://www.youtube.com/watch?v=7C9RgOcvkvo&ab_channel=동빈나)|
+|10 주 |레벨2,3|1. [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) <br>2. [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=python3)|
+
