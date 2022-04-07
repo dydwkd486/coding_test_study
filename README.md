@@ -57,6 +57,7 @@
 |9 주 |영상 공부|[나동빈 bfs,dfs](https://www.youtube.com/watch?v=7C9RgOcvkvo&ab_channel=동빈나)|
 |10 주 |레벨2,3|1. [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844?language=python3) <br>2. [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=python3)|
 |11 주 |프로그래머스 시험||
-|11 주 |레벨3|1. [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|
-
+|12 주 |레벨3|1. [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|
+|13 주 |레벨2,3|1. [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)<br>2. [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|
+|14 주 |영상 공부|[나동빈 DP](https://www.youtube.com/watch?v=5Lu34WIx2Us)|
 
