@@ -60,4 +60,6 @@
 |12 주 |레벨3|1. [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|
 |13 주 |레벨2,3|1. [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)<br>2. [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|
 |14 주 |영상 공부|[나동빈 DP](https://www.youtube.com/watch?v=5Lu34WIx2Us)|
+|15 주 |영상 안 문제 풀기|[나동빈 DP](https://www.youtube.com/watch?v=5Lu34WIx2Us)|
+|16 주 |레벨 2,3|1. [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)<br>2. [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|
 
