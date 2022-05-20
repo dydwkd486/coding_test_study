@@ -62,4 +62,5 @@
 |14 주 |영상 공부|[나동빈 DP](https://www.youtube.com/watch?v=5Lu34WIx2Us)|
 |15 주 |영상 안 문제 풀기|[나동빈 DP](https://www.youtube.com/watch?v=5Lu34WIx2Us)|
 |16 주 |레벨 2,3|1. [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)<br>2. [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|
+|17 주 |레벨 3|1. [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)<br>2. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|
 
