@@ -64,5 +64,4 @@
 |16 주 |레벨 2,3|1. [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905)<br>2. [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)|
 |17 주 |레벨 3|1. [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)<br>2. [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)|
 |18 주 |영상 공부|[나동빈 우선순위 큐](https://www.youtube.com/watch?v=AjFlp951nz0&ab_channel=%EB%8F%99%EB%B9%88%EB%82%98)|
-
-
+|19 주 |레벨 2,3|1. [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)<br>2. [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|
